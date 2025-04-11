@@ -28,6 +28,9 @@
 
 Body
     NavBar
+    
     Route=/ =>feed
+    
     Route=/login =>Login
+    
     Route=/profile =>Profile
