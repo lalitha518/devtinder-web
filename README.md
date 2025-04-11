@@ -13,3 +13,21 @@
 -https://daisyui.com/docs/install/vite/
 
 -Add NavBar component from daisyui
+
+-Installed react router dom
+    npm install react-router-dom
+
+-Created BrowserRouter> Routes > Route > Chidren Routes 
+
+-Created a Outlet in Body
+
+- Added Footer Component
+
+
+
+
+Body
+    NavBar
+    Route=/ =>feed
+    Route=/login =>Login
+    Route=/profile =>Profile
