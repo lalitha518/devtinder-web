@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Hello React+Vite</h1>
+        <h1 className="text-3xl">Hello React+Vite</h1>
       </div>
 
     </>
